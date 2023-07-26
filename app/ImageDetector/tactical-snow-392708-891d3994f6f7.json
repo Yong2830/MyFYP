@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tactical-snow-392708",
+  "private_key_id": "891d3994f6f783cadd356c2ed24fc91698e16f3f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmvSSepE5yerpq\n5yIC+/gMpyXDg70SGRDK9/9PICs4wbZHYp2l0XKwQQHy+9aCgOSrd0uet4tMOrzg\nqfKy21EFSzI0JifghVATXdc2vL9mJsPTiDGc1W4fFJx+stiWsXE8eqCEYUn3E3sx\neHUYZ0sZyKwCwwbIRuQ6G7F4G0HmBWqRmWbgbuP8miPNUshFnX1I5d+Fh6c1Z5EL\n59z15HBZZiy4/CbWGbQ0nqgbP1GhRyIE08XW8p3bJRH026iyu84alYs8lcjqoHpI\nhcSb0QE+v4ohTkOleYuzM4mMoUuOU3UDWWmo7v06FMHwHIVcqr9J4F4DNonhra93\nUGb3AnE7AgMBAAECggEABnvDFygTwji7mzxiYsYUurpJn9xISEVnCOT+Cgmj3UTo\nK8pUFrAzcktpVBwKc4FOq5i/CbcrlVlDLGbqGGd8N9NclkWKMk9cqCanYPTdxe+J\n6hw2FKuUnA/2s8KvvlA/F810TDP1oZktCX9SfvyMCi3u02cKfj8rs4xKqM7PQ7jO\nkOjeqBEP4CpzU15rTsA2R4xyrdXFLP95ZMpGCoa5WfT4BVDGrMQ6t21jXw0n7SWD\n8m3TgOAWp4ksE2eJyos1PjJ/dMysmvIEmXYaMqJCdD7z+ZyPSycRSgvVi1d8gblK\nJNAN2amLtkGqcldj/CB3nK75ZMR1Y6crtqVmjq+hEQKBgQD+pHtRmV4junUsCO+5\nidYkOV8Ae87V4d5LTJQlQIFWMS+v1yMI41bVU4ijamZtYghJELPAHIbqbcYRCWeZ\np9s+cQQpqZi5IYT5fHWDkPqzcv71vsMpjuh+G+ASY/xQk9OPLq9fjEjJ2ESlyOfd\nbLDBfZzxjF1Ir2uTRxSwHULa8QKBgQDn+AoOMlJOO5C1EGUwEvCP76kJrUhZ8V6K\nLTJggM1CPQVZL08TB46910VP6E+vTxn+tFkHXk8g9Jbfebi0vU5Ge6ilKibHsEaX\nmUtQcL4aSg/tfGVNbOphMa/4AM/Rl3pszVabSQKYVgNy1E37NMvxix8y8nSVojpp\nyRETxX7W6wKBgBk0gLxf+PCCaUy1ib0MxrSJNT0gBCYpmE5NwzA4xVSZw8Wc/uvH\nTPYKsbCzPHZBSN6ql5BBgp07xmozSxzrf4kbuLTDA8n3Zmknh55BQH94t4HtovW/\nHoY1DiXj3brAFyXKEjPb9+x6yri6PTEurARLAbjrEuS58GUAmSyhiNeRAoGBAKuN\nkUI2jRA2lSqTWYJYP3jzsXvqn1uFWnmuO1eLakHWhyISDtTv/e0AS85w7J2mTn9E\nOaNtZ+/jc8EKcEOazUzrHyonJk8AWvS69iwjdTRUGbt1CCZeqmf/KziqwQcsk+nr\nYmWtdTHcSuidgp6JyVp1nTk8fmQ7eh/KB8srgEbJAoGBAPSXp10kkFxAnrLxhlCj\n/x0kCPDMUjWApUNtgQSbeVL+AU+JGLGdn+WfZAjGKxMOQTF6dYFKpfyQ43ZpiZIA\n+4kqobg+3y5Zd651KMYjsT4fbGsdSLLUnegNLLsUexPRpfPHaWfMc58+2I+4f8qj\n6x39zTmGg7jhXEZrf/6p+b+A\n-----END PRIVATE KEY-----\n",
+  "client_email": "myimagedetection@tactical-snow-392708.iam.gserviceaccount.com",
+  "client_id": "109509225590616736833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myimagedetection%40tactical-snow-392708.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
